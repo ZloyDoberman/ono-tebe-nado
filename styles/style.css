@@ -12,6 +12,11 @@ header {
   list-style-type: circle;
 }
 
+.header__link {
+  border-bottom: 1px solid black;
+  text-decoration: none;
+}
+
 .link__address {
   border-bottom: 1px solid black;
   text-decoration: none;
