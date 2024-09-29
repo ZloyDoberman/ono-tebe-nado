@@ -69,26 +69,30 @@ address {
   padding-top: 165px;
   font-size: 100px;
   letter-spacing: 0.3em;
+  padding-left: 50px;
+  padding-right: 50px;
+
 }
 
 .aligned-text {
   display: block;
-  padding-right: 48px;
-  padding-left: 50px;
+  line-height: 1.15;
+  text-align: left;
 }
 
 .aligned-text_center {
-  line-height: 1.45;
+  line-height: 1.40;
   text-align: center;
+  letter-spacing: 30px;
 }
 
 .aligned-text_right {
-  line-height: 0.92;
+  line-height: 1;
   text-align: right;
 }
 
 .letter-spacing-extended {
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
 }
 
 .no-letter-spacing {
@@ -100,7 +104,7 @@ address {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 138px 50px 62px 78px;
+  margin: 135px 50px 62px 78px;
   font-size: 22px;
 }
 
@@ -125,7 +129,7 @@ address {
 }
 
 .lots {
-  margin-top: 182px;
+  margin-top: 178px;
 }
 
 .lots__heading {
@@ -264,7 +268,7 @@ address {
 footer {
   display: flex;
   justify-content: space-between;
-  margin: 185px 50px 88px 50px;
+  margin: 188px 50px 88px 50px;
   font-size: 18px;
 }
 
